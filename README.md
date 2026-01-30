@@ -95,8 +95,10 @@ A feldolgozás után:
 
 ---
 
-## 5. A program linkje
+## 5. A program és próbaverzió linkje
 
 https://www.tfodor.hu/datum-eltolas.html
+https://www.tfodor.hu/proba-letoltes-datum-eltolas.php
+
 
 
