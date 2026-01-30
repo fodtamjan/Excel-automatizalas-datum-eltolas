@@ -90,5 +90,6 @@ A feldolgozás után:
 
 ## 4. Videó bemutató
 
-🎥 **Nézd meg az alábbi videót a program működéséről:**  
+🎥 **Nézd meg a fájlok között található videót a program működéséről:**  
 *(ide illeszd be a videó linkjét)*
+
